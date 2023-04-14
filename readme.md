@@ -1,0 +1,3 @@
+# Multimodal Physiological and Psychological Database for MSIMI study
+
+This is open-source software licensed under the MIT License. The noises present in MPPD_MSIMI database are power line interference, baseline wandering, and muscle contraction. The Daubechies wavelet and two median filters (200ms, 600ms) were was used to remove noises mentioned above. This tool is developed using Python 3.7 and the following third-party packages: Matplotlib 3.5.3, Neurokit2 0.2.2, Numpy 1.21.0, Pandas 2.0.0, Pandas_stubs 1.2.0.62, PyWavelets 1.3.0, Scipy 1.7.3, Scikit-learn 1.0.2.
